@@ -1,4 +1,4 @@
 # Langton's ant
-Cellular automaton
+Cellular automata
 
 The C++ version requires the SDL 2 library
